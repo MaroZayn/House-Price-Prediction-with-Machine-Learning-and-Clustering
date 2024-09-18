@@ -45,7 +45,7 @@ KMeans clustering is used to group houses based on location (longitude and latit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MaroZayn/house-price-prediction.git
+   git clone https://github.com/MaroZayn/house-price-prediction-with-machine-learning-and-clustering.git
 2. Install the required libraries:
    
    ```bash
